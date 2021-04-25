@@ -9,7 +9,7 @@ chai.use(chaiHttp);
 
 describe('API', function () {
   describe('index', function () {
-    it('GET / should an object with a correct message', function (done) {
+    it.skip('GET / should an object with a correct message', function (done) {
       chai
         .request(server)
         .get('/')
