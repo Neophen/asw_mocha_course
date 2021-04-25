@@ -4,7 +4,7 @@ Hello and welcome to Alnasoft unit testing course
 
 ## To get started to the following steps
 
-1. Download this repository [download](https://github.com/Neophen/asw_mocha_course/archive/refs/heads/main.zip)
+1. Download this repository [download](https://github.com/Neophen/asw_unit_testing_course/archive/refs/heads/main.zip)
    1.2. If you have a github account you just get a direct copy of this repository.
 2. Extract it to a folder of your choice.
 3. Make sure you have node installed on your system, you get get it here [link](https://nodejs.org/en/)
