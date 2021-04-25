@@ -1,4 +1,4 @@
-# AlnaSoft unit testing course
+# Alnasoft unit testing course
 
 Hello and welcome to Alnasoft unit testing course
 
@@ -14,6 +14,8 @@ Hello and welcome to Alnasoft unit testing course
 6. Run `npm install -g pnpm` this will install a pnpm package manager which is much faster.
 7. Then run `pnpm i` to install all the project dependencies.
 8. And for the last step run `pnpm test` if all went fine you should see the following in your terminal:
+<img width="738" alt="success" src="https://user-images.githubusercontent.com/6092928/115994881-8b67ea80-a5e1-11eb-94ff-3c5129b5c632.png">
+
 
 
 Ok You're done with the setup! See you in the lessons.
