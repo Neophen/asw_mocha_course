@@ -14,7 +14,7 @@ Hello and welcome to Alnasoft unit testing course
 4. Make sure you have some sort of code editor installed on your system, I recommend [VS Code](https://code.visualstudio.com/)
 5. Ok now we have all the tools required follow these steps to download the git repository onto your system.
     - In your Git BASH terminal type `pwd` and hit enter, it should print out the current directory your terminal cursor is at.
-    - Copy paste this line `git clone git@github.com:Neophen/asw_unit_testing_course.git` this will download the repository onto your system, at the current folder with the name `asw_unit_testing_course`
+    - Copy paste this line `git clone https://github.com/Neophen/asw_unit_testing_course.git` this will download the repository onto your system, at the current folder with the name `asw_unit_testing_course`
     - type in `cd asw_unit_testing_course` and hit enter
     - type in `pwd` and hit enter you should see that now your path ends with `/asw_unit_testing_course` meaning you're in this directory
     - type in `code .` and hit enter this should open the Vs Code editor window
