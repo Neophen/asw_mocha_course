@@ -4,7 +4,7 @@ const chai = require('chai');
 const expect = chai.expect;
 
 describe('Alnasoft unit testing course', function () {
-  it('All people are ready to go', function () {
+  it('should contain a valid booking structure', function () {
     const response = {
       bookings: [
         {
