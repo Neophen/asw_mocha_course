@@ -15,7 +15,7 @@ const callPokeApi = async function (requestBody) {
     .send(requestBody);
 };
 
-describe(`Poke api basic test`, function () {
+describe('Poke api basic tests', function () {
   before(async function () {
     response = await callPokeApi();
     body = response.body;
@@ -37,7 +37,6 @@ describe(`Poke api basic test`, function () {
   });
 
   it('pokemon should have a name and a path', function () {
-    // console.log(body.results [0])
     const pokemon = body.results[0];
     expect(pokemon).to.have.property('name', 'bulbasaur');
     expect(pokemon).to.have.property('url');
